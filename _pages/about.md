@@ -36,4 +36,4 @@ I am currently also interested in the multiscale modeling of non-equilibrium ato
 
 ## <span style="color: blue; font-size: smaller;">Recent News</span>
 
-**August 2024**: Completed a summer internship at Samsung Semiconductor's Advanced Materials Lab in Cambridge, MA, under the guidance of [Dr. Yongwoo Shin](https://scholar.google.com/citations?user=0R3aEUUAAAAJ&hl=en). I developed a Python package for hybrid KMC/MD simulations within ASE to model the growth of amorphous boron nitride using neural network potentials, and benchmarked the results against TEM experiments.
+- **August 2024**: Completed a summer internship at Samsung Semiconductor's Advanced Materials Lab in Cambridge, MA, under the guidance of [Dr. Yongwoo Shin](https://scholar.google.com/citations?user=0R3aEUUAAAAJ&hl=en). I developed a Python package for hybrid KMC/MD simulations within ASE to model the growth of amorphous boron nitride using neural network potentials, and benchmarked the results against TEM experiments.
