@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Akram Ibrahim"
 title_separator          : "-"
 name                     : &name "Akram Ibrahim"
-description              : &description "PhD Candidate in Physics/Computational Materials Science at UMBC"
+description              : &description "PhD Candidate in Physics (Computational Materials Science) at UMBC"
 url                      : https://akram-ibrahim.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Akram-Ibrahim/Akram-Ibrahim.github.io"
