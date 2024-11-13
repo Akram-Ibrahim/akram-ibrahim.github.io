@@ -14,7 +14,7 @@ I am currently pursuing a Ph.D. in Physics at the University of Maryland Baltimo
 
 ## <span style="color: blue; font-size: smaller;">Research Interests</span>
 
-My research interests lie at the intersection of condensed matter physics, materials science, chemistry, machine learning, and mathematics. Broadly, I am interested in integrating AI/data science techniques with multiscale atomistic simulations <span style="color: #ff69b4;">(MD/Accelerated MD/MC/KMC/NAMD)</span> and quantum-mechanical calculations <span style="color: #ff69b4;">(DFT/DFPT/DFTB/TFDFT/GW-BSE/QMC)</span> to predict crystal structures, predict electronic-structure properties, and study physical/chemical phenomena at extensive length/time scales that emulate experimental reality.
+My research interests lie at the intersection of condensed matter physics, materials science, chemistry, machine learning, and mathematics. Broadly, I am interested in integrating AI/data science techniques with multiscale atomistic simulations <span style="color: #ff69b4;">(MD, Enhanced sampling, MC, KMC, NAMD)</span> and quantum-mechanical calculations <span style="color: #ff69b4;">(DFT, DFPT, DFTB, TDDFT, GW/BSE, QMC)</span> to predict crystal structures, predict electronic-structure properties, and study physical/chemical phenomena at extensive length/time scales that emulate experimental reality.
 
 I am also engaged in designing computational workflows to facilitate multiscale simulations and the machine learning of material properties.
 
