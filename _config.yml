@@ -34,7 +34,7 @@ og_image                 :  # Open Graph/Twitter default site image
 author:
   name             : "Akram Ibrahim"
   avatar           : "profile.jpg" # adjust this with your actual image file
-  bio              : "PhD Candidate -- Computational Materials Science / Condensed Matter Physics / Multiscale Modeling / AI/ML"
+  bio              : "Ph.D. Candidate -- Computational Materials Science / Condensed Matter Physics / Multiscale Atomistic Modeling / AI/ML"
   location         : "Baltimore, MD"
   employer         :
   pubmed           :
