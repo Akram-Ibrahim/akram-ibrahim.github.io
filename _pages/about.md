@@ -22,19 +22,10 @@ I am currently also interested in the multiscale modeling of non-equilibrium ato
 
 ## <span style="color: blue; font-size: smaller;">Technical Skills</span>
 
-- <span style="font-size: smaller;">**Materials Simulation**:</span>
-  - <span style="font-size: smaller;">DFT: VASP, Quantum ESPRESSO, GPAW, DFTB+, SIESTA/TranSiesta</span>
-  - <span style="font-size: smaller;">MD: LAMMPS, ASE, JAX MD, Ovito</span>
-  - <span style="font-size: smaller;">Machine Learning Potentials: n2p2, GAP, SchNetPack, MACE, NequIP/Allegro</span>
-  - <span style="font-size: smaller;">Python Materials IDEs: ASE, pymatgen, pyiron</span>
-  - <span style="font-size: smaller;">Cluster Expansion: ATAT, icet</span>
-  - <span style="font-size: smaller;">QMC: QMCPACK</span>
-
-- <span style="font-size: smaller;">**Programming Skills**:</span>
-  - <span style="font-size: smaller;">Languages:</span>
-    - <span style="font-size: smaller;">Python, C++, FORTRAN, MATLAB</span>
-  - <span style="font-size: smaller;">ML/AI Frameworks:</span>
-    - <span style="font-size: smaller;">TensorFlow, PyTorch, JAX, PyTorch Geometric, e3nn</span>
+| **Category**                  | **Technologies** |
+|-------------------------------|------------------|
+| **Materials Simulation**      | DFT: VASP, Quantum ESPRESSO, GPAW, DFTB+, SIESTA/TranSiesta<br>MD: LAMMPS, ASE, JAX MD, Ovito<br>Machine Learning Potentials: n2p2, GAP, SchNetPack, MACE, NequIP/Allegro<br>Python Materials IDEs: ASE, pymatgen, pyiron<br>Cluster Expansion: ATAT, icet<br>QMC: QMCPACK |
+| **Programming Skills**        | **Languages:** Python, C++, FORTRAN, MATLAB<br>**ML/AI Frameworks:** TensorFlow, PyTorch, JAX, PyTorch Geometric, e3nn |
 
 ## <span style="color: blue; font-size: smaller;">Recent News</span>
 
