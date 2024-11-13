@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: #DC143C;"><strong>I am planning to graduate in Spring 2025 and am looking for full-time opportunities. Reach out to me if you have any relevant positions!</strong></span>
+<span style="font-size: smaller;">I am planning to graduate in Spring 2025 and am looking for full-time opportunities. Reach out to me if you have any relevant positions!</span>
 
 <span style="font-size: smaller;">I am currently pursuing a Ph.D. in Physics at the University of Maryland Baltimore County (UMBC), specializing in computational materials science under the supervision of [Dr. Can Ataca](https://physics.umbc.edu/people/faculty/ataca/). I completed my Master of Science in Physics at UMBC in 2021. I also hold a Bachelor's degree in Mechanical Power Engineering (Thermal Engines, Fluid/Gas Dynamics) from Menoufia University in Egypt, which I obtained in 2016.</span>
 
