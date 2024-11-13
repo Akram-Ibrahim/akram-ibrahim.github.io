@@ -30,7 +30,7 @@ I am currently also interested in the multiscale modeling of non-equilibrium ato
 - <span style="font-size: smaller;"> Cluster Expansion: ATAT, icet</span>
 - <span style="font-size: smaller;"> QMC: QMCPACK</span>
 
- <span style="font-size: smaller;">**Programming Skills**:
+- <span style="font-size: smaller;">**Programming Skills**:
 - <span style="font-size: smaller;"> Languages: Python, C++, FORTRAN, MATLAB</span>
 - <span style="font-size: smaller;"> ML/AI Frameworks: TensorFlow, PyTorch, JAX, PyTorch Geometric, e3nn</span>
 
