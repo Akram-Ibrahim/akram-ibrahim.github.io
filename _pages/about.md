@@ -24,7 +24,7 @@ redirect_from:
 
 | **Category**                  | **Technologies** |
 |-------------------------------|------------------|
-| **Materials Simulation**      | **DFT**: VASP, Quantum ESPRESSO, GPAW, DFTB+, SIESTA/TranSiesta<br>**MD/MC**: LAMMPS, ASE, JAX MD, Ovito<br>**Machine Learning Potentials**: n2p2, GAP, SchNetPack, MACE, NequIP/Allegro<br>**Python Materials IDEs**: ASE, pymatgen, pyiron<br>**Cluster Expansion**: ATAT, icet<br>QMC: QMCPACK |
+| **Materials Simulation**      | **DFT**: VASP, Quantum ESPRESSO, GPAW, DFTB+, SIESTA/TranSiesta<br>**MD/MC**: LAMMPS, ASE, JAX MD, Ovito<br>**Machine Learning Potentials**: n2p2, GAP, SchNetPack, MACE, NequIP/Allegro<br>**Python Materials IDEs**: ASE, pymatgen, pyiron<br>**Cluster Expansion**: ATAT, icet<br>**QMC**: QMCPACK |
 | **Programming Skills**        | **Languages:** Python, C++, FORTRAN, MATLAB<br>**ML/AI Frameworks:** TensorFlow, PyTorch, JAX, PyTorch Geometric, e3nn |
 
 ## <span style="color: blue; font-size: smaller;">Recent News</span>
