@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: maroon; font-size: smaller;">I'm planning to graduate in Spring 2025 and am looking for full-time opportunities. Reach out to me if you have any relevant positions!</span>
+<span style="color: maroon; font-size: smaller;"><strong>I'm planning to graduate in Spring 2025 and am looking for full-time opportunities. Reach out to me if you have any relevant positions!</strong></span>
 
 I am currently a Ph.D. candidate in the Department of Physics at the University of Maryland Baltimore County (UMBC), working on computational materials science under the supervision of [Dr. Can Ataca](https://physics.umbc.edu/people/faculty/ataca/). I obtained my M.S. in Physics from UMBC in 2021. I also earned my Bachelor's in Mechanical Power Engineering (focusing on Thermal Engines, Fluid/Gas Dynamics) from Menoufia University in Egypt in 2016. 
 
@@ -22,7 +22,7 @@ I am currently also interested in the multiscale modeling of non-equilibrium ato
 
 ## <span style="color: blue; font-size: smaller;">Technical Skills</span>
 
-- **Materials Simulation**:
+- <span style="font-size: smaller;">**Materials Simulation**:
   - DFT: VASP, Quantum ESPRESSO, GPAW, DFTB+, SIESTA/TranSiesta
   - MD: LAMMPS, ASE, JAX MD, Ovito
   - Machine Learning Potentials: n2p2, GAP, SchNetPack, MACE, NequIP/Allegro
@@ -32,7 +32,7 @@ I am currently also interested in the multiscale modeling of non-equilibrium ato
 
 - **Programming Skills**:
   - Languages: Python, C++, FORTRAN, MATLAB
-  - ML/AI Frameworks: TensorFlow, PyTorch, JAX, PyTorch Geometric, e3nn
+  - ML/AI Frameworks: TensorFlow, PyTorch, JAX, PyTorch Geometric, e3nn</span>
 
 ## <span style="color: blue; font-size: smaller;">Recent News</span>
 
