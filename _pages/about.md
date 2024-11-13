@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: maroon;"><strong>I am planning to graduate in Spring 2025 and am looking for full-time opportunities. Reach out to me if you have any relevant positions!</strong></span>
+<span style="color: #DC143C;"><strong>I am planning to graduate in Spring 2025 and am looking for full-time opportunities. Reach out to me if you have any relevant positions!</strong></span>
 
 I am currently pursuing a Ph.D. in Physics at the University of Maryland Baltimore County (UMBC), specializing in computational materials science under the supervision of [Dr. Can Ataca](https://physics.umbc.edu/people/faculty/ataca/). I completed my Master of Science in Physics at UMBC in 2021. I also hold a Bachelor's degree in Mechanical Power Engineering (Thermal Engines, Fluid/Gas Dynamics) from Menoufia University in Egypt, which I obtained in 2016. 
 
 ## <span style="color: blue; font-size: smaller;">Research Interests</span>
 
-My research interests lie at the intersection of condensed matter physics, materials science, chemistry, machine learning, and mathematics. Broadly, I am interested in integrating AI/data science techniques with multiscale atomistic simulations <span style="color: #d291bc;">(MD/Accelerated MD/MC/KMC)</span> and quantum-mechanical calculations <span style="color: #d291bc;">(DFT/DFPT/TFDFT/GW-BSE/QMC)</span> to predict crystal structures, predict electronic-structure properties, and study physical/chemical phenomena at extensive length/time scales that emulate experimental reality.
+My research interests lie at the intersection of condensed matter physics, materials science, chemistry, machine learning, and mathematics. Broadly, I am interested in integrating AI/data science techniques with multiscale atomistic simulations <span style="color: #ff69b4;">(MD/Accelerated MD/MC/KMC)</span> and quantum-mechanical calculations <span style="color: #ff69b4;">(DFT/DFPT/TFDFT/GW-BSE/QMC)</span> to predict crystal structures, predict electronic-structure properties, and study physical/chemical phenomena at extensive length/time scales that emulate experimental reality.
 
 I am also engaged in designing computational workflows to facilitate multiscale simulations and the machine learning of material properties.
 
